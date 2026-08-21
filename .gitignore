@@ -1,0 +1,5 @@
+.env
+.env.local
+coverage.out
+bin/
+tmp/
